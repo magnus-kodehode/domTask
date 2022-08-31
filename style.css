@@ -1,0 +1,18 @@
+body {
+    background-color: #588157;
+    text-align: center;
+}
+
+button {
+    margin-top: 50px;
+    padding: 5px 15px 5px 15px;
+    color: #ffffff;
+    background-color: #2b2d42;
+    border: none;
+    border-radius: 5px;
+}
+
+#hexCode {
+    color: #ffffff;
+    text-shadow: 0 0 0 10px black;
+}
